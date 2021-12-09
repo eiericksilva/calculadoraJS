@@ -1,3 +1,0 @@
-# Calculadora
-
-- git init
